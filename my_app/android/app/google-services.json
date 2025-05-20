@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717409004128",
+    "project_id": "plant-viwe",
+    "storage_bucket": "plant-viwe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717409004128:android:f4c691a868ec1b9351f105",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717409004128-6ethrdffb1147bgln2pqvk7lf5tbmquq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2MFWT6equSRt_58qz1ppzm1h5Qf7l5JM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717409004128-6ethrdffb1147bgln2pqvk7lf5tbmquq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
